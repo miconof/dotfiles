@@ -2,11 +2,12 @@
 
 ## dotfiles
 
-This repo is a mix of different repos I forked here and there modified to my needs. It contains:
+This repo is a mix of different repos I forked and cloned modified to my needs. It contains:
 
 - [oh-my-zsh](http://github.com/robbyrussell/oh-my-zsh) by [Robby Russell](http://github.com/robbyrussell)
 - [vimfiles](http://github.com/scrooloose/vimfiles) by [Martin Grenfell](http://github.com/scrooloose)
 - And a set of scripts/functions that I usually use
+- To be added: [todo.txt-cli](https://github.com/ginatrapani/todo.txt-cli)
 
 ## install
 
