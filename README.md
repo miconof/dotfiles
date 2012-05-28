@@ -1,17 +1,17 @@
-# My dotfiles
+# my dotfiles
 
 ## dotfiles
 
-This repo is a mix of other different repos I forked here and there. It contains:
+This repo is a mix of different repos I forked here and there modified to my needs. It contains:
 
-- [oh-my-zsh](http://github.com/robbyrussell/oh-my-zsh) by [Robby Russell](http://github.com/robbyrussel)
+- [oh-my-zsh](http://github.com/robbyrussell/oh-my-zsh) by [Robby Russell](http://github.com/robbyrussell)
 - [vimfiles](http://github.com/scrooloose/vimfiles) by [Martin Grenfell](http://github.com/scrooloose)
 - And a set of scripts/functions that I usually use
 
 ## install
 
 At the moment is recomended to use the installation steps described in `oh-my-zsh` and `vimfiles`.
-I plan to add some sort of automatic installation from the parent repository soon.
+I plan to add some sort of automatic installation in the parent repository soon.
 
 <!--## components-->
 <!--TODO-->
