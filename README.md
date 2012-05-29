@@ -11,8 +11,8 @@ This repo is a mix of different repos I forked and cloned modified to my needs. 
 
 ## install
 
-Clone the repo: `git clone https://github.com/miconof/dotfiles.git ~/repos/dotfiles
-Grab the submodules: cd ~/repos/dotfiles && git submodule init && git submodule update
+Clone the repo: `git clone https://github.com/miconof/dotfiles.git ~/repos/dotfiles`
+Grab the submodules: `cd ~/repos/dotfiles && git submodule init && git submodule update`
 
 At the moment it is recomended to use the installation steps described in `oh-my-zsh` and `vimfiles`.
 I plan to add some sort of automatic installation in the parent repository soon.
