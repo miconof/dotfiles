@@ -4,3 +4,6 @@
 [submodule "vimfiles"]
 	path = vimfiles
 	url = https://github.com/miconof/vimfiles
+[submodule "todo.txt"]
+	path = todo.txt
+	url = git://github.com/ginatrapani/todo.txt-cli.git
