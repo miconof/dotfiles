@@ -3,3 +3,7 @@
         email = miconof@gmail.com
 [github]
         user = miconof
+[core]
+	editor = vim
+[push]
+	default = simple
