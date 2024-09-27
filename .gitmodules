@@ -1,9 +1,9 @@
 [submodule "oh-my-zsh"]
 	path = oh-my-zsh
-	url = git://github.com/miconof/oh-my-zsh
+	url = git@github.com/miconof/oh-my-zsh.git
 [submodule "vimfiles"]
 	path = vimfiles
 	url = git@github.com:miconof/vimfiles.git
 [submodule "todo.txt"]
 	path = todo.txt
-	url = git://github.com/ginatrapani/todo.txt-cli.git
+	url = git@github.com/ginatrapani/todo.txt-cli.git
